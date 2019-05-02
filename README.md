@@ -11,13 +11,17 @@ A collection of C programs first written as part of a C programming course but w
 
 ### const
 ### float
+C_to_F
+
 ### 
 
 
 # C Functions()
 
 ### printf()
+C_to_F, 
 ### scanf()
+C_to_F,
 ### getchar()
 
 # Concepts
@@ -25,3 +29,9 @@ A collection of C programs first written as part of a C programming course but w
 ### Arrays
 ### Pointers
 ### Strings
+
+# Libraries
+
+### <stdio.h>
+
+C_to_F
