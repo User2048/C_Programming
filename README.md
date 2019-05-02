@@ -4,8 +4,11 @@ A collection of C programs first written as part of a C programming course but w
 
 # Programs
 
+C_to_F.c - Converts a centigrade temperature into Farenheit. Uses f float suffix to tell the compiler to use a float rather than a double. 3.00 = double. 3.00f = float. Aslo uses scanf() to read in a float value.
 
+UPC_check_digit_calc.c - Reads in multi digit numbers using scanf() - avoid using scanf()...try fgets() or fgetC()
 
+select.c - seems to be broken with latest gcc version. generates a warning on compile and if run and 0 entered causes a core dump (2 May 19)
 
 # Keywords
 
